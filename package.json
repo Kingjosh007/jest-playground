@@ -1,0 +1,23 @@
+{
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "Basic tests to get familiar with the [Jest testing framework](https://jestjs.io/docs/getting-started).",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingjosh007/jest-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingjosh007/jest-playground/issues"
+  },
+  "homepage": "https://github.com/Kingjosh007/jest-playground#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
